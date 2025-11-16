@@ -1,6 +1,6 @@
 # Meu PortfolioHUB - Desafio Bootcamp CEUB
 
-[cite_start]Este é o projeto da "Entrega Final: Implantação PortfolioHUB + IA GEMINI" [cite: 6] [cite_start]do Bootcamp I do CEUB[cite: 1, 2].
+Este é o projeto da "Entrega Final: Implantação PortfolioHUB + IA GEMINI" [cite: 6] [cite_start]do Bootcamp I do CEUB[cite: 1, 2].
 
 ## [cite_start]1. Plano de Implantação 
 
