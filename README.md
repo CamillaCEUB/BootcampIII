@@ -2,7 +2,7 @@
 
 Este é o projeto da "Entrega Final: Implantação PortfolioHUB + IA GEMINI" [cite: 6] [cite_start]do Bootcamp I do CEUB[cite: 1, 2].
 
-## [cite_start]1. Plano de Implantação 
+## 1. Plano de Implantação 
 
 **Objetivo:** Criar um site simples de portfólio (PortfolioHUB) [cite: 13] com 3 páginas: Início, Sobre e Projetos.
 **Tecnologia:** HTML e CSS puros.
